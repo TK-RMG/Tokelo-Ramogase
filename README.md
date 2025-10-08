@@ -7,20 +7,20 @@
 
 - 🔭 I’m currently working on **RStudio**
 
-- 🌱 I’m currently learning **Code R**
+- 🌱 I’m currently learning the necessity and functionality of **R** and **Power BI** 
 
-- 👯 I’m looking to collaborate on **Data analysis projects**
+- 👯 I’m looking to collaborate on **Data analysis projects** and gain experience in the workforce through **Internship**
 
-- 🤝 I’m looking for help with **Power BI**
-
-- 💬 Ask me about **SQL server**
+- 💬 Ask me about **SQL server** and **SQL Management Studio**
 
 - 📫 How to reach me **601009@student.belgiumcampus.ac.za**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am physically active** and **enjoy social environments**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Social links:</h3>
+<p align="left">LinkedIn Account: https://www.linkedin.com/in/tokelo-ramogase-577220383/
+</p>
+<p align="left">Gmail account: tokelormg@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **601009@student.belgiumcampus.ac.za**
 
+- 📄 Download my CV at: https://github.com/Tokelo-Ramogase/CV/blob/main/Tokelo%20Ramogase%20Resume.pdf
+
 - ⚡ Fun fact **I am physically active** and **enjoy social environments**
 
 <h3 align="left">Social links:</h3>

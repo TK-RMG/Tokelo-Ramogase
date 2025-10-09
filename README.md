@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am physically active** and **enjoy social environments**
 
-![Fly-By-Wire Diagram](https://raw.githubusercontent./Tokelo-Ramogase/Tokelo-Ramogase/blob/main/Fly-By-Wire%20Image.jpg)
+![Fly-By-Wire-procedure](https://github.com/Tokelo-Ramogase/Tokelo-Ramogase/blob/main/Fly-By-Wire%20Image.jpg?raw=true)
 
 <h3 align="left">Social links:</h3>
 <p align="left">LinkedIn Account: https://www.linkedin.com/in/tokelo-ramogase-577220383/

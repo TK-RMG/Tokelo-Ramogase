@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SQL server** and **SQL Management Studio**
 
-- 📫 How to reach me **601009@student.belgiumcampus.ac.za**
+- 📫 How to reach me **tokelormg@gmail.com**
 
 - 📄 Download my CV at: https://github.com/Tokelo-Ramogase/CV/blob/main/Tokelo%20Ramogase%20Resume.pdf
 

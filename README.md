@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokelo-ramogase" alt="tokelo-ramogase" /></a> </p>
 
-- 🔭 I’m currently working on **RStudio**
+- 🔭 I’m currently working on a Final year Project identified as Fly-By-Wire, whereby a joystick takes control of an aeroplane, by stabilizing the functionality of its wings, in case of an emergency, such as the incapacitation of the pilot. Once the wings are stabalized it controlds the plane's flight control, enabling it to fly more efficiently and find a safe place to land the plane
 
 - 🌱 I’m currently learning the necessity and functionality of **R** and **Power BI** 
 
